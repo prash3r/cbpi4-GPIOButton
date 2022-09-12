@@ -1,0 +1,2 @@
+# craftbeerpi4 GPIOButton plugin
+this plugin for [CraftBeerPi4](https://github.com/craftbeerpi/craftbeerpi4/) allows you to configure one GPIO pin to make api calls. It is based on the [CraftBeerPi4 plugin template by Manuel Fritsch](https://github.com/Manuel83/craftbeerpi4-plugin-template) and greatly borrows its function from the [CraftBeerPi3 GPIOButton plugin by Jan Haudhuyze](https://github.com/jhhbe/cbpi).
